@@ -1,9 +1,9 @@
 # Fund
 
-Fund是一个方便在终端环境下追踪基金趋势的小工具
+Fund是一个方便在终端环境下追踪基金趋势的小工具<br>
 数据来源是天天基金网
 
-![](https://github.com/xuchdeid/fund/blob/master/screenshot/screenshot1.png?raw=true)
+<img src="https://github.com/xuchdeid/fund/blob/master/screenshot/screenshot1.png?raw=true" width = "400" alt="screenshot" align=center />
 
 ## 如何使用
 
