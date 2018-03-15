@@ -1,0 +1,33 @@
+{
+  "name": "fund",
+  "description": "tool for trend fund",
+  "version": "0.1.0",
+  "author": {
+    "name": "xuchdeid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xuchdeid/fund.git"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "bin": {
+    "fund": "./bin/cli.js"
+  },
+  "engines": {
+    "node": ">=6.13.1"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "optionator": "^0.8.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
